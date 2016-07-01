@@ -61,7 +61,7 @@
 
 	h1, h2, h3, h4, h5, h6 {
 		color: inherit;
-		font-weight: 700;
+		font-weight: 300;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -70,7 +70,7 @@
 		}
 
 	h2 {
-		font-size: 1.5em;
+		font-size: 0.5em;
 	}
 
 	h3 {
@@ -112,8 +112,8 @@
 	}
 
 		header.major h2 {
-			font-size: 2.6em;
-			font-weight: 700;
+			font-size: 1.8em;
+			font-weight: 500;
 		}
 
 		header.major .byline {
